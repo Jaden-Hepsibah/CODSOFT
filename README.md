@@ -1,8 +1,9 @@
-#ToDo List (using command-line python application)
+# Project Name
+ToDo List (using command-line python application)
 This is a simple To-do list command-line application.
 which allows us organizes tasks accordingly.
 
-#Features
+## Features
 -Add tasks
 -View tasks
 -Remove tasks

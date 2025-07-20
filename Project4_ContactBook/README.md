@@ -15,3 +15,13 @@ This is a simple **Contact Book** task built by using Python Application.
 
 ## How it works
 The program uses a **Python Dictionary** to store details of the contact book
+
+### Example Structure:
+
+{
+  "Alice": {
+    "phone": 1234567890,
+    "email": "alice@example.com",
+    "address": "123 Main St"
+  }
+}

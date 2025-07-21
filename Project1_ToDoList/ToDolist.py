@@ -1,6 +1,6 @@
 ToDolist=[]
 def Add_task():
-  task=input("Enter a new task: ")
+  task=input("Enter a New task: ")
   ToDolist.append({"task" : task, "Status" : "pending"})
   print("New task is added sucessfully!\n")
 

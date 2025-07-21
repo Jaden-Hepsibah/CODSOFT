@@ -1,8 +1,12 @@
  # Password Generator
- This password generator generates, random passwords for the users by using Python Application.
+ This is a simple password generator built using Python that creates strong, random passwords for users.
 
  ## Features
- - Get user input.
- - Generates random password based on the desire length.
- - Uses uppercase, lowercase, digits and punctuation.
+ - Accepts user input
+ - Generates a random password based on specified length
+ - Uses uppercase letters, lowercase letters, digits, and punctuation characters
+
+## How It Works
+The application runs in the terminal or command-line interface. You're prompted to enter the desired length of the password. A strong, random password of the specified length is then  generated and displayed to the user
+
    

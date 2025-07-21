@@ -1,10 +1,9 @@
-# ToDo List (using command-line python application)
-This is a simple To-do list command-line application.
-which allows us organizes tasks accordingly.
+# ToDo List
+This is a simple command-line Python application that allows you to organize your tasks effectively.
 
 ## Features
 - Add tasks
 - View tasks
 - Remove tasks
 - Mark tasks as done
-- Exits the application
+- Exit the application

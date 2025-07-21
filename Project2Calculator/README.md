@@ -1,5 +1,5 @@
 # Calculator
-This is the simple Calculator that peforms basic arithmetic operations. And displays the result.
+This is a simple Calculator built using Python that performs basic arithmetic operations and displays the result.
 
 ## Features
 - Addition
@@ -7,3 +7,5 @@ This is the simple Calculator that peforms basic arithmetic operations. And disp
 - Multiplication
 - Division
   
+## How It Works
+The application runs in the terminal or command-line interface.  You're prompted to choose an operation —— **Addition, Subtraction, Multiplication, or Division**. The selected operation is performed and the result is displayed.
